@@ -1,7 +1,7 @@
-### Create PostGraphql App
+## Create PostGraphql App
 
-## Install
+### Install
 ```npm i -g create-postgraphql-app```
 
-## Create a graphql project
+### Create a graphql project
 ```create-postgraphql-app```
