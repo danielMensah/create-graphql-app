@@ -1,11 +1,30 @@
 {
-  "name": "create-graphql-app",
-  "version": "1.0.0",
-  "dependencies": {},
-  "devDependencies": {
+  "name": "create-postgraphql-app",
+  "version": "1.0.2",
+  "dependencies": {
     "inquirer": "^6.2.2"
   },
+  "devDependencies": {},
   "bin": {
-    "create-graphql-app": "./index.js"
-  }
+    "create-postgraphql-app": "./index.js"
+  },
+  "description": "Module to create templated grapqhl projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielMensah/create-graphql-app.git"
+  },
+  "keywords": [
+    "graphql",
+    "nodejs"
+  ],
+  "author": "Daniel Mensah <mensahezros@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielMensah/create-graphql-app/issues"
+  },
+  "homepage": "https://github.com/danielMensah/create-graphql-app#readme"
 }
