@@ -1,0 +1,11 @@
+{
+  "name": "create-graphql-app",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "inquirer": "^6.2.2"
+  },
+  "bin": {
+    "create-graphql-app": "./index.js"
+  }
+}
